@@ -19,12 +19,12 @@ urls:
 
 # Edit these details 
 
-author_logo: profile.png
+author_logo: unnamed.jpg
 author: Cameron Knox
 author_bio: Hi, My Name is Cameron Knox.  
 author_email: "cbknox13@gmail.com"
 author_location: United States
-author_website_url: "http://CameronKnox.github.io"
+author_website_url: "http://CameronKnox.me"
 
 author_work_experiences: 
             - company_name: Google
