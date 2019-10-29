@@ -1,7 +1,5 @@
-source 'https://rubygems.org'
-# gem 'github-pages', group: :jekyll_plugins
+source 'http://rubygems.org'
 
-group :jekyll_plugins do
-    gem 'github-pages'
-    gem 'jekyll-algolia', '~> 1.0'
-  end
+gem 'github-pages'
+gem 'html-proofer'
+gem 'jekyll-admin'
