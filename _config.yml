@@ -2,7 +2,7 @@ name: Cameron Knox
 bio: Computer Science Student at the University of South Carolina
 description: 'My blog about school,  new projects and some of my personal life.'
 external-image: 'false'
-picture: assets/images/profile.jpg
+picture: assets/images/cameron.jpg
 resume: 'false'
 resume-external: true
 resume-url: 'https://google.com/?q=my+resume'
@@ -24,14 +24,8 @@ authors:
     name: John Doe
     bio: A Man who travels the world eating noodles
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/cameron.jpg
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 width: normal
 projects: true
 about: true
