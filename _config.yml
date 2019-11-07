@@ -3,19 +3,12 @@ bio: Computer Science Student at the University of South Carolina
 description: 'My blog about school,  new projects and some of my personal life.'
 external-image: false
 picture: assets/images/cameron.jpg
-resume: false
-resume-external: true
+resume: true
+resume-external: false
 resume-url: 'https://google.com/?q=my+resume'
 url: 'https://CameronKnox.github.io'
 permalink: '/:title/'
-disqus:
-  shortname: mydisqus
-  categories:
-    - blog
-    - project
-facebook: cameron.knox13
 twitter: cbknox13
-google: cbknox13
 instagram: cbknox13
 github: CameronKnox
 email: cbknox13@gmail.com
