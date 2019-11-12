@@ -2,7 +2,7 @@
 title: Getting Started
 layout: post
 date: '2019-11-07 10:41:00'
-image: http://localhost:4000/assets/images/cameron.jpg
+image: http://CameronKnox.me/assets/images/cameron.jpg
 headerImage: true
 tag:
 - First
